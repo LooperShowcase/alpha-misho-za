@@ -1,0 +1,58 @@
+h1 {
+    color: rgb(192, 138, 138);
+  }
+  h2 {
+    color: blue;
+  }
+  body {
+    font-family: "Zen Antique", serif;
+
+    background-color: black;
+  }
+  p {
+    color: aqua;
+  }
+  h1 {
+    color: rgb(125, 235, 52);
+  }
+  table {
+    color: rgb(192, 79, 15);
+  }
+  ul {
+    color: chartreuse;
+  }
+  h3 {
+    color: deepskyblue;
+  }
+  #firstPart {
+    background-color: rgb(77, 165, 42);
+  }
+  #parttwo{
+    background-color:gold;
+  }
+#partthree  {
+    background-color: darkgreen;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #111;
+    }
